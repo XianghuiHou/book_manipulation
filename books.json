@@ -1,0 +1,44 @@
+{
+  "b0001": {
+    "book_id": "b0001",
+    "title": "title1",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0002", "b0003", "b0004"]
+  },
+  "b0002": {
+    "book_id": "b0002",
+    "title": "title2",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0005"]
+  },
+  "b0003": {
+    "book_id": "b0003",
+    "title": "title3",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0005"]
+  },
+  "b0004": {
+    "book_id": "b0004",
+    "title": "title4",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0005", "b0006"]
+  },
+  "b0005": {
+    "book_id": "b0005",
+    "title": "title5",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0006"]
+  },
+  "b0006": {
+    "book_id": "b0006",
+    "title": "title5",
+    "author": "author name",
+    "category": "category name",
+    "similar_books": ["b0005"]
+  }
+}
